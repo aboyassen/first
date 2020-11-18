@@ -1,0 +1,84 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+    
+body{
+}
+ul li{
+    float: right;
+     list-style-type: none;
+     margin: 20px;
+     font-size: 40px;
+  }   
+ul li a {
+     color: rgb(0, 255, 229);
+     text-decoration: none;
+ }
+ ul li a:hover{
+     color: red;
+ }
+
+.viv{
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    background-size:cover;
+    margin: 0%;
+    padding-bottom: 0%;
+}
+ 
+.head1{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(255, 255, 0);
+    font-style: oblique;
+    padding-top: 100px;
+}
+.head2{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(255, 255, 0, 0.87);
+
+
+}
+.head3{
+    text-align: center;
+    font-size: 80px;
+    color: rgb(255, 255, 0);
+    font-style: oblique;
+}
+
+.zez{
+    margin-top: 200px;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.gallary{
+    margin-top: 25px;
+    float: left;
+    width: 32.33%;
+    margin: 6discpx;
+    margin-left: 15px;
+
+}
+ 
+.gallary img{
+     width: 500px;
+}
+ 
+.disc{
+ text-align: center;
+}
+  
+
+.spa span{
+    color:red;
+    font-size: 25px;
+}
